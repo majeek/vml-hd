@@ -2,23 +2,6 @@
 
 A new database with handwritten Arabic script. It is based on five books written by different writers from the years 1088-1451\. We took 668 pages from these five books, and fully annotated them on the sub-word level. For each page we manually applied bounding boxes on the different sub-words and annotated the sequence of characters. It consists of 159,149 sub-word appearances consisted of 326,289 characters out of a vocabulary of 5,509 forms of sub-words. The database is described in detail and is designed for training and testing recognition systems for handwritten Arabic sub-words. This database is available for the purpose of research, and we encourage researchers to develop and test new methods using our database.
 
-### Copyright and Citation
-
-This dataset is intended for research purposes only. If you wish to use the dataset for anything besides research, you must get our explicit consent.
-
-If you download and use the dataset in your research, you must cite our paper:  
-@inproceedings{kassis2017vmlhd,  
-title={VML-HD: The Historical Arabic Documents Dataset for Recognition Systems},  
-author={Kassis, Majeed and Abdalhaleem, Alaa and Droby, Ahmad and Alaasam, Reem and El-Sana, Jihad}, booktitle={1st International Workshop on Arabic Script Analysis and Recognition},  
-year={2017},  
-organization={IEEE}
-
-[Download Database](https://www.cs.bgu.ac.il/~vml/database/VML-HD/VML-HD.zip)  
-[XML Files](https://www.cs.bgu.ac.il/~vml/database/VML-HD/xmlFiles.rar)
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-### VML-HD: The Arabic Historical Manuscripts Dataset for Recognition Systems
 <p align="center">
 <img src="writingStyle/3249138.png" width="120" height="210" />
 <img src="writingStyle/3158466.png" width="120" height="210" />
@@ -51,6 +34,22 @@ For any inquiry please send an email to the organizers at ![](http://oldweb.cs.b
 
 To download of the files for each track of the two, please click [here](https://goo.gl/m4qD1E).
 
+
+## Copyright and Citation
+
+This dataset is intended for research purposes only. If you wish to use the dataset for anything besides research, you must get our explicit consent.
+
+If you download and use the dataset in your research, you must cite our paper:  
+@inproceedings{kassis2017vmlhd,  
+title={VML-HD: The Historical Arabic Documents Dataset for Recognition Systems},  
+author={Kassis, Majeed and Abdalhaleem, Alaa and Droby, Ahmad and Alaasam, Reem and El-Sana, Jihad}, booktitle={1st International Workshop on Arabic Script Analysis and Recognition},  
+year={2017},  
+organization={IEEE}
+
+[Download Database](https://www.cs.bgu.ac.il/~vml/database/VML-HD/VML-HD.zip)  
+[XML Files](https://www.cs.bgu.ac.il/~vml/database/VML-HD/xmlFiles.rar)
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 # Other Notes
 ## Books for Alignment
 
