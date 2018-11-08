@@ -26,13 +26,14 @@ Annotated Manuscripts: [0206 0207](https://www.cs.bgu.ac.il/~majeek/dataset/0206
 <div class="tab-pane fade" id="recognition">
 
 ### VML-HD: The Arabic Historical Manuscripts Dataset for Recognition Systems
-<center>
+<p align="center">
 <img src="writingStyle/3249138.png" width="120" height="210" />
 <img src="writingStyle/3158466.png" width="120" height="210" />
 <img src="writingStyle/3157556.png" width="120" height="210" />
 <img src="writingStyle/3368132.png" width="120" height="210" />
 <img src="writingStyle/3426930.png" width="120" height="210" />
-</center>
+</p>
+
 ## Dataset Information: 5 Folds Version
 
 The dataset contains 5 manuscripts totaling 668 pages, annotated on the subword level. These manuscripts are split to five folds named 'a','b','c,'d', and 'e'. Each fold contains randomly chosen 20% pages from each manuscripts. The recognition score will be calculated using the Mean average precision (MAP) score. Mean average precision is a widespread measure for the performance of information retrieval systems. The metric is defined as the average of the precision value obtained after each relevant word is retrieved.  
@@ -51,13 +52,11 @@ In this track, you will receive the documents segmented, where each image of a m
 
 In this track, you will receive the documents unsegmented, where each image will contain a complete manuscript page. Along with each page, the annotation data are also provided. For this track it is expected that segmentation free algorithms are used to recognize the subwords found in the dataset.  
 
-[Data for Segmentation Free Track](./competition/segmentation_free.zip)  
+[Data for Segmentation Free Track](competition/segmentation_free.zip)  
 
 For any inquiry please send an email to the organizers at ![](http://oldweb.cs.bgu.ac.il/image_cache/6cbce1d020c3238d0301fb48929367db)
 
 To download of the files for each track of the two, please click [here](https://goo.gl/m4qD1E).
-
-</div>
 
 # Other Notes
 Parsing and subword segmentation code for the VML-HD Dataset.
