@@ -18,13 +18,6 @@ organization={IEEE}
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-## Books for Alignment
-
-Complete Manuscripts: [0207](https://www.cs.bgu.ac.il/~majeek/dataset/0207.rar) [0206](https://www.cs.bgu.ac.il/~majeek/dataset/0206.rar)  
-Annotated Manuscripts: [0206 0207](https://www.cs.bgu.ac.il/~majeek/dataset/0206_0207_annotated.rar)</div>
-
-<div class="tab-pane fade" id="recognition">
-
 ### VML-HD: The Arabic Historical Manuscripts Dataset for Recognition Systems
 <p align="center">
 <img src="writingStyle/3249138.png" width="120" height="210" />
@@ -59,7 +52,10 @@ For any inquiry please send an email to the organizers at ![](http://oldweb.cs.b
 To download of the files for each track of the two, please click [here](https://goo.gl/m4qD1E).
 
 # Other Notes
-Parsing and subword segmentation code for the VML-HD Dataset.
+## Books for Alignment
+
+Complete Manuscripts: [0207](https://www.cs.bgu.ac.il/~majeek/dataset/0207.rar) [0206](https://www.cs.bgu.ac.il/~majeek/dataset/0206.rar)  
+Annotated Manuscripts: [0206 0207](https://www.cs.bgu.ac.il/~majeek/dataset/0206_0207_annotated.rar)</div>
 
 To acquire the complete dataset please refer [here](https://www.cs.bgu.ac.il/~majeek/#dataset).
 
