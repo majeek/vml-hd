@@ -27,7 +27,7 @@ Annotated Manuscripts: [0206 0207](https://www.cs.bgu.ac.il/~majeek/dataset/0206
 
 ### VML-HD: The Arabic Historical Manuscripts Dataset for Recognition Systems
 
-![](competition/writingStyle/3249138.png) ![](competition/writingStyle/3158466.png) ![](competition/writingStyle/3157556.png) ![](competition/writingStyle/3368132.png) ![](competition/writingStyle/3426930.png)
+![](writingStyle/3249138.png) ![](writingStyle/3158466.png) ![](writingStyle/3157556.png) ![](writingStyle/3368132.png) ![](/writingStyle/3426930.png)
 
 ## Dataset Information: 5 Folds Version
 
