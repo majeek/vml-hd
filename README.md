@@ -25,15 +25,15 @@ Each track of the two contains the folds images and annotation information in th
 
 In this track, you will receive the documents segmented, where each image of a manuscript page is segmented to its corresponding annotation information and stored in its own folder labeled with the same name of the manuscript page image name.Along with each folder containing the subwords, the annotation data are also provided. For this track it is expected that segmentation based algorithms are used to recognize the subwords found in the dataset.  
 
-[Data for Segmentation Based Track](http://www.cs.bgu.ac.il/~vml/database/competition/segmentation_based.zip)  
+[Data for Segmentation Based Track](https://drive.google.com/open?id=12qCqdFnJgDR18UcRaPhdp-LaV-UEDyZB)  
 
 ## Segmentation Free Track
 
 In this track, you will receive the documents unsegmented, where each image will contain a complete manuscript page. Along with each page, the annotation data are also provided. For this track it is expected that segmentation free algorithms are used to recognize the subwords found in the dataset.  
 
-[Data for Segmentation Free Track](competition/segmentation_free.zip)  
+[Data for Segmentation Free Track](https://drive.google.com/open?id=13H8xjUzr1s1Nh5DEb6YNF9Gqseelimf0)  
 
-For any inquiry please send an email to the organizers at ![](http://oldweb.cs.bgu.ac.il/image_cache/6cbce1d020c3238d0301fb48929367db)
+For any inquiry please send an email to the organizers at majeek at cs dot bgu . ac dot il
 
 To download of the files for each track of the two, please click [here](https://goo.gl/m4qD1E).
 
@@ -49,7 +49,7 @@ author={Kassis, Majeed and Abdalhaleem, Alaa and Droby, Ahmad and Alaasam, Reem 
 year={2017},  
 organization={IEEE}
 
-[Download Database](https://www.cs.bgu.ac.il/~vml/database/VML-HD/VML-HD.zip)  
-[XML Files](https://www.cs.bgu.ac.il/~vml/database/VML-HD/xmlFiles.rar)
+[Download Database](https://drive.google.com/open?id=1N_WYx0KjryW80hb_Ozv9ByhUrx6UCwSE)  
+[XML Files](https://drive.google.com/open?id=1N_WYx0KjryW80hb_Ozv9ByhUrx6UCwSE)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
