@@ -26,12 +26,13 @@ Annotated Manuscripts: [0206 0207](https://www.cs.bgu.ac.il/~majeek/dataset/0206
 <div class="tab-pane fade" id="recognition">
 
 ### VML-HD: The Arabic Historical Manuscripts Dataset for Recognition Systems
+<center>
 <img src="writingStyle/3249138.png" width="120" height="210" />
 <img src="writingStyle/3158466.png" width="120" height="210" />
 <img src="writingStyle/3157556.png" width="120" height="210" />
 <img src="writingStyle/3368132.png" width="120" height="210" />
 <img src="writingStyle/3426930.png" width="120" height="210" />
-
+</center>
 ## Dataset Information: 5 Folds Version
 
 The dataset contains 5 manuscripts totaling 668 pages, annotated on the subword level. These manuscripts are split to five folds named 'a','b','c,'d', and 'e'. Each fold contains randomly chosen 20% pages from each manuscripts. The recognition score will be calculated using the Mean average precision (MAP) score. Mean average precision is a widespread measure for the performance of information retrieval systems. The metric is defined as the average of the precision value obtained after each relevant word is retrieved.  
