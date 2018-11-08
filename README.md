@@ -53,14 +53,3 @@ organization={IEEE}
 [XML Files](https://www.cs.bgu.ac.il/~vml/database/VML-HD/xmlFiles.rar)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-nd/4.0/)
-# Other Notes
-## Books for Alignment
-
-Complete Manuscripts: [0207](https://www.cs.bgu.ac.il/~majeek/dataset/0207.rar) [0206](https://www.cs.bgu.ac.il/~majeek/dataset/0206.rar)  
-Annotated Manuscripts: [0206 0207](https://www.cs.bgu.ac.il/~majeek/dataset/0206_0207_annotated.rar)</div>
-
-To acquire the complete dataset please refer [here](https://www.cs.bgu.ac.il/~majeek/#dataset).
-
-Paper detailing the dataset can be downloaded from [here](https://www.cs.bgu.ac.il/~majeek/#publications).
-
-For the tutorial explaining the code please refer to [here](https://majeek.github.io/tutorials/vmlHD/).
